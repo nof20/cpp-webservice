@@ -1,0 +1,2 @@
+build --remote_cache=https://storage.googleapis.com/franklin-labs-bazel-cache
+build --google_default_credentials
